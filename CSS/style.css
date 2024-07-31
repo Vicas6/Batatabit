@@ -417,7 +417,7 @@ main {
     width: 100%;
     min-width: 32rem;
     max-width: 64rem;
-    height: 60rem;
+    height: 52rem;
     margin: 0 auto;
     background-color: var(--off-white);
 }
